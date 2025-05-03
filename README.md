@@ -1,4 +1,5 @@
 # rabbit-parent
+[English](README_en.md) | 中文
 
 ## 概述  
 该代码模块是一个综合性的分布式系统解决方案集合，主要包含以下核心功能组件：  
