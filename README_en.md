@@ -44,5 +44,5 @@ The module adopts a layered architecture design, covering complete chains of tas
 ## Quick Navigation
 
 ### 👨‍💻 Developers
-- [Development Guide](summary/dev_guide.md) - Quick start for project development
+- [Development Guide](summary/dev_guide_en.md) - Quick start for project development
 - [Module Description](docs/_module.md) - Detailed explanation of project modules
